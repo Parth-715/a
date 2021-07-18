@@ -1,0 +1,30 @@
+
+h1 {
+    background-color: cadetblue;
+    color: #E7FAFF;
+    padding-left: 600px;
+}
+*{
+    
+    background-color: #8A9090
+}
+ 
+ 
+video{
+    border: 5px solid black;
+}
+ .menui{
+     padding-left: 600px;
+     padding-right: 50px;
+ }
+ h3{
+     padding-left: 650px;
+ }
+ img{
+     padding-left: 450px;
+ }
+ 
+ 
+.item:hover img{
+    opacity: 0.3;
+}
